@@ -1,0 +1,8 @@
+{
+  "name": "@inway/prettier-config",
+  "version": "1.0.1",
+  "description": "Organization config for InWay.pro",
+  "main": "index.json",
+  "author": "InWay.pro",
+  "license": "MIT"
+}
